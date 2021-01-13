@@ -14,7 +14,9 @@
 				<h1 class="mb-3">Lite Data Base</h1>
 				<p class="lead">
 					Самописная SQL СУБД с хранением данных в CSV файлах.<br>
-					Реализованная в качестве тестового задания
+					Реализованная в качестве тестового задания.<br>
+					<a target="_blank" href="doc/tz.docx"><small>Скачать ТЗ</small></a> |
+					<a target="_blank" href="https://github.com/AsperinDK/lite-db"><small>Репозиторий на github</small></a>
 				</p>
 			</div>
 			<div class="row">

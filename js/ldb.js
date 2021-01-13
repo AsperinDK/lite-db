@@ -150,7 +150,7 @@ ldb.showTable = function(table_name) {
 					if (0 !== k) {
 						tbody.append(
 							'<tr>' +
-								'<td class="text-muted">' + (k + 1) + '</td>' +
+								'<td class="text-muted">' + k + '</td>' +
 								'<td>' + v.join('</td><td>') + '</td>' +
 							'</tr>'
 						);
