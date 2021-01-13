@@ -1,0 +1,4 @@
+#ldb-editor .table th:last-child,
+#ldb-editor .table td:last-child {
+	text-align: right;
+}
